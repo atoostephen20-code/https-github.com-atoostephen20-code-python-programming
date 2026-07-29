@@ -11,7 +11,10 @@
   "dependencies": {
     "next": "13.4.12",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "@sendgrid/mail": "^8.10.1",
+    "gray-matter": "^4.0.3",
+    "next-mdx-remote": "^4.3.0"
   },
   "devDependencies": {
     "autoprefixer": "10.4.14",
